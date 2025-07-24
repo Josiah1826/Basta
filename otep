@@ -1293,4 +1293,6 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://vthanh.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="VParadise.jp" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://vthanh.utako.moe/v_paradise/index.m3u8
-
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=10-mp4a_98800_eng=3.m3u8
