@@ -10101,102 +10101,106 @@
   <channel id="gma7ph1">
     <display-name>GMA 7 (CON)</display-name>
   </channel>
-  <programme start="20250725131212 +0000" stop="20250725141212 +0000" channel="gma7ph1">
-    <title lang="en">Program 1</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 1</desc>
-  </programme>
-  <programme start="20250725141212 +0000" stop="20250725151212 +0000" channel="gma7ph1">
-    <title lang="en">Program 2</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 2</desc>
-  </programme>
-  <programme start="20250725151212 +0000" stop="20250725161212 +0000" channel="gma7ph1">
-    <title lang="en">Program 3</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 3</desc>
-  </programme>
-  <programme start="20250725161212 +0000" stop="20250725171212 +0000" channel="gma7ph1">
-    <title lang="en">Program 4</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 4</desc>
-  </programme>
-  <programme start="20250725171212 +0000" stop="20250725181212 +0000" channel="gma7ph1">
-    <title lang="en">Program 5</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 5</desc>
-  </programme>
-  <programme start="20250725181212 +0000" stop="20250725191212 +0000" channel="gma7ph1">
-    <title lang="en">Program 6</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 6</desc>
-  </programme>
-  <programme start="20250725191212 +0000" stop="20250725201212 +0000" channel="gma7ph1">
-    <title lang="en">Program 7</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 7</desc>
-  </programme>
-  <programme start="20250725201212 +0000" stop="20250725211212 +0000" channel="gma7ph1">
-    <title lang="en">Program 8</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 8</desc>
-  </programme>
-  <programme start="20250725211212 +0000" stop="20250725221212 +0000" channel="gma7ph1">
-    <title lang="en">Program 9</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 9</desc>
-  </programme>
-  <programme start="20250725221212 +0000" stop="20250725231212 +0000" channel="gma7ph1">
-    <title lang="en">Program 10</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 10</desc>
-  </programme>
-  <programme start="20250725231212 +0000" stop="20250726001212 +0000" channel="gma7ph1">
-    <title lang="en">Program 11</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 11</desc>
-  </programme>
-  <programme start="20250726001212 +0000" stop="20250726011212 +0000" channel="gma7ph1">
-    <title lang="en">Program 12</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 12</desc>
-  </programme>
-  <programme start="20250726011212 +0000" stop="20250726021212 +0000" channel="gma7ph1">
-    <title lang="en">Program 13</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 13</desc>
-  </programme>
-  <programme start="20250726021212 +0000" stop="20250726031212 +0000" channel="gma7ph1">
-    <title lang="en">Program 14</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 14</desc>
-  </programme>
-  <programme start="20250726031212 +0000" stop="20250726041212 +0000" channel="gma7ph1">
-    <title lang="en">Program 15</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 15</desc>
-  </programme>
-  <programme start="20250726041212 +0000" stop="20250726051212 +0000" channel="gma7ph1">
-    <title lang="en">Program 16</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 16</desc>
-  </programme>
-  <programme start="20250726051212 +0000" stop="20250726061212 +0000" channel="gma7ph1">
-    <title lang="en">Program 17</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 17</desc>
-  </programme>
-  <programme start="20250726061212 +0000" stop="20250726071212 +0000" channel="gma7ph1">
-    <title lang="en">Program 18</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 18</desc>
-  </programme>
-  <programme start="20250726071212 +0000" stop="20250726081212 +0000" channel="gma7ph1">
-    <title lang="en">Program 19</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 19</desc>
-  </programme>
-  <programme start="20250726081212 +0000" stop="20250726091212 +0000" channel="gma7ph1">
-    <title lang="en">Program 20</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 20</desc>
-  </programme>
-  <programme start="20250726091212 +0000" stop="20250726101212 +0000" channel="gma7ph1">
-    <title lang="en">Program 21</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 21</desc>
-  </programme>
-  <programme start="20250726101212 +0000" stop="20250726111212 +0000" channel="gma7ph1">
-    <title lang="en">Program 22</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 22</desc>
-  </programme>
-  <programme start="20250726111212 +0000" stop="20250726121212 +0000" channel="gma7ph1">
-    <title lang="en">Program 23</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 23</desc>
-  </programme>
-  <programme start="20250726121212 +0000" stop="20250726131212 +0000" channel="gma7ph1">
-    <title lang="en">Program 24</title>
-    <desc lang="en">Placeholder description for GMA 7 (CON) - Hour 24</desc>
-  </programme>
+  <programme channel="gma7con" start="20250725053000 +0800" stop="20250725080000 +0800">
+<title lang="zh">Unang Hirit</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725080000 +0800" stop="20250725082500 +0800">
+<title lang="zh">One Piece: Dress Rosa Arc</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725082500 +0800" stop="20250725090000 +0800">
+<title lang="zh">Kamen Rider Revice</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725090000 +0800" stop="20250725093000 +0800">
+<title lang="zh">Hidden Love</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725093000 +0800" stop="20250725110000 +0800">
+<title lang="zh">Kapuso Movie Festival</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725110000 +0800" stop="20250725120000 +0800">
+<title lang="zh">Tiktoclock</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725120000 +0800" stop="20250725143000 +0800">
+<title lang="zh">It's Showtime</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725143000 +0800" stop="20250725152000 +0800">
+<title lang="zh">My Father's Wife</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725152000 +0800" stop="20250725160500 +0800">
+<title lang="zh">Cruz vs. Cruz</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725160500 +0800" stop="20250725164500 +0800">
+<title lang="zh">Akusada</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725164500 +0800" stop="20250725171000 +0800">
+<title lang="zh">Fast Talk with Boy Abunda</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725171000 +0800" stop="20250725174000 +0800">
+<title lang="zh">The Lovely Runner</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725174000 +0800" stop="20250725183000 +0800">
+<title lang="zh">Family Feud</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725183000 +0800" stop="20250725200000 +0800">
+<title lang="zh">24 Oras</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725200000 +0800" stop="20250725205000 +0800">
+<title lang="zh">Encantadia Chronicles: Sang'gre</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725205000 +0800" stop="20250725213500 +0800">
+<title lang="zh">Sanggang - Dikit FR</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725213500 +0800" stop="20250725222000 +0800">
+<title lang="zh">Amazing Earth</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725222000 +0800" stop="20250725230000 +0800">
+<title lang="zh">Saksi</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725230000 +0800" stop="20250725233000 +0800">
+<title lang="zh">Bossam: Steal The Fate</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
+<programme channel="gma7con" start="20250725233000 +0800" stop="20250726000000 +0800">
+<title lang="zh">Desirable Flowers</title>
+<desc/>
+<date>2025-07-25</date>
+</programme>
   <channel id="gmapinoytv1">
     <display-name>GMA PINOY TV (TFC)</display-name>
   </channel>
