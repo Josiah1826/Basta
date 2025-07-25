@@ -239,7 +239,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV (CON01)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ KAPUSO CHANNELS",GTV (CON)
+#EXTINF:-1 tvg-id="70607" tvg-name="GTV" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ KAPUSO CHANNELS",GTV (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
