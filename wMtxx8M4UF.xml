@@ -1,6 +1,6 @@
 <tv date="20250725205902 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/70615/20250725.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=70615&date=20250725&timezone=QXNpYS9NYW5pbGE=">
 <channel id="70615">
-<display-name lang="Philippines">GMA</display-name>
+<display-name lang="Philippines">GMA 7 (CON)</display-name>
 <icon src=""/>
 </channel>
 <programme channel="70615" start="20250725053000 +0800" stop="20250725080000 +0800">
