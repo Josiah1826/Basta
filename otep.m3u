@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=403813,https://epg.pw/api/epg.xml?channel_id=403916,https://epg.pw/api/epg.xml?channel_id=70615,https://epg.pw/api/epg.xml?channel_id=70607,https://epg.pw/api/epg.xml?channel_id=403676,https://epg.pw/api/epg.xml?channel_id=429763,https://epg.pw/api/epg.xml?channel_id=7870,https://epg.pw/api/epg.xml?channel_id=11984,https://epg.pw/api/epg.xml?channel_id=403858,https://epg.pw/api/epg.xml?channel_id=80669,https://epg.pw/api/epg.xml?channel_id=403793,https://epg.pw/api/epg.xml?channel_id=443285,https://epg.pw/api/epg.xml?channel_id=431323,https://epg.pw/api/epg.xml?channel_id=10805,https://epg.pw/api/epg.xml?channel_id=429769,https://epg.pw/api/epg.xml?channel_id=443293" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1,DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
