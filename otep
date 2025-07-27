@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=403813,https://epg.pw/api/epg.xml?channel_id=403916,https://epg.pw/api/epg.xml?channel_id=70615,https://epg.pw/api/epg.xml?channel_id=70607,https://epg.pw/api/epg.xml?channel_id=403676,https://epg.pw/api/epg.xml?channel_id=429763,https://epg.pw/api/epg.xml?channel_id=7870,https://epg.pw/api/epg.xml?channel_id=11984,https://epg.pw/api/epg.xml?channel_id=403858,https://epg.pw/api/epg.xml?channel_id=80669,https://epg.pw/api/epg.xml?channel_id=403793,https://epg.pw/api/epg.xml?channel_id=443285,https://epg.pw/api/epg.xml?channel_id=431323,https://epg.pw/api/epg.xml?channel_id=10805,https://epg.pw/api/epg.xml?channel_id=429769,https://epg.pw/api/epg.xml?channel_id=443293" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=309490,https://epg.pw/api/epg.xml?channel_id=399722,https://epg.pw/api/epg.xml?channel_id=443657,https://epg.pw/api/epg.xml?channel_id=12640,https://epg.pw/api/epg.xml?channel_id=202819,https://epg.pw/api/epg.xml?channel_id=11986,https://epg.pw/api/epg.xml?channel_id=443276,https://epg.pw/api/epg.xml?channel_id=443286,https://epg.pw/api/epg.xml?channel_id=443275,https://epg.pw/api/epg.xml?channel_id=443284,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=403813,https://epg.pw/api/epg.xml?channel_id=403916,https://epg.pw/api/epg.xml?channel_id=70615,https://epg.pw/api/epg.xml?channel_id=70607,https://epg.pw/api/epg.xml?channel_id=403676,https://epg.pw/api/epg.xml?channel_id=429763,https://epg.pw/api/epg.xml?channel_id=7870,https://epg.pw/api/epg.xml?channel_id=11984,https://epg.pw/api/epg.xml?channel_id=403858,https://epg.pw/api/epg.xml?channel_id=80669,https://epg.pw/api/epg.xml?channel_id=403793,https://epg.pw/api/epg.xml?channel_id=443285,https://epg.pw/api/epg.xml?channel_id=431323,https://epg.pw/api/epg.xml?channel_id=10805,https://epg.pw/api/epg.xml?channel_id=429769,https://epg.pw/api/epg.xml?channel_id=443293" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1,DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
@@ -36,15 +36,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1,Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
-#EXTINF:-1,TSN 1
+#EXTINF:-1 tvg-id="405049" tvg-name="tsn1",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1,TSN 2
+#EXTINF:-1 tvg-id="404833" tvg-name="tsn2",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1,TSN 3
+#EXTINF:-1 tvg-id="405060" tvg-name="tsn3",TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1,TSN 4
+#EXTINF:-1 tvg-id="405134" tvg-name="tsn4",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1,TSN 5
+#EXTINF:-1 tvg-id="405079" tvg-name="tsn5",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="403858" tvg-name="fox", FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
@@ -62,7 +62,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="403916" tvg-name="MSG",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1,SPECTRUM LAKERS
+#EXTINF:-1 tvg-id="309490" tvg-name="Spectrum Lakers",Spectrum Lakers
 http://cord-cutter.net:8080/Andr45@H3c/AnDr3W@5634/21842
 #EXTINF:-1,US FANDUEL SPORTS SoCal
 http://cord-cutter.net:8080/Andr45@H3c/AnDr3W@5634/221151
@@ -255,7 +255,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="bilyocha1" tvg-name="BILYONARYO CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL LOCAL",BILYONARYO CHANNEL (CON)
+#EXTINF:-1 tvg-id="399722" tvg-name="BILYONARYO CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL LOCAL",BILYONARYO CHANNEL (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -710,7 +710,7 @@ http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="tapsports1" tvg-name="TAP SPORTS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL SPORTS",TAP SPORTS (CON)
+#EXTINF:-1 tvg-id="443657" tvg-name="TAP SPORTS (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL SPORTS",TAP SPORTS (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -730,7 +730,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="spotvph1" tvg-name="SPOTV HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL SPORTS",SPOTV HD (CON)
+#EXTINF:-1 tvg-id="12640" tvg-name="SPOTV HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL SPORTS",SPOTV HD (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -740,7 +740,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="spotvph2" tvg-name="SPOTV 2 HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL SPORTS",SPOTV 2 HD (CON)
+#EXTINF:-1 tvg-id="202819" tvg-name="SPOTV 2 HD (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL SPORTS",SPOTV 2 HD (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -790,7 +790,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001203/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="historyph1" tvg-name="HISTORY CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",HISTORY CHANNEL (CON)
+#EXTINF:-1 tvg-id="11986" tvg-name="HISTORY CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",HISTORY CHANNEL (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001074/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -800,12 +800,12 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="discoveryasia" tvg-name="DISCOVERY ASIA" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="443276" tvg-name="DISCOVERY ASIA" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",DISCOVERY ASIA
 http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="discoveryph1" tvg-name="DISCOVERY CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",DISCOVERY CHANNEL (CON)
+#EXTINF:-1 tvg-id="443286" tvg-name="DISCOVERY CHANNEL (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",DISCOVERY CHANNEL (CON)
 http://143.44.136.110:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -825,7 +825,7 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
-#EXTINF:-1 tvg-id="foodnetworkph" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",FOOD NETWORK
+#EXTINF:-1 tvg-id="443275" tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/fx1Y2Eh.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",FOOD NETWORK
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -855,7 +855,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="hgtvph1" tvg-name="HGTV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",HGTV (CON)
+#EXTINF:-1 tvg-id="443284" tvg-name="HGTV (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL INTERNATIONAL",HGTV (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001162/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
