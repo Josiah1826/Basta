@@ -1,11 +1,5 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=309490,https://epg.pw/api/epg.xml?channel_id=399722,https://epg.pw/api/epg.xml?channel_id=443657,https://epg.pw/api/epg.xml?channel_id=12640,https://epg.pw/api/epg.xml?channel_id=202819,https://epg.pw/api/epg.xml?channel_id=11986,https://epg.pw/api/epg.xml?channel_id=443276,https://epg.pw/api/epg.xml?channel_id=443286,https://epg.pw/api/epg.xml?channel_id=443275,https://epg.pw/api/epg.xml?channel_id=443284,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=403813,https://epg.pw/api/epg.xml?channel_id=403916,https://epg.pw/api/epg.xml?channel_id=70615,https://epg.pw/api/epg.xml?channel_id=70607,https://epg.pw/api/epg.xml?channel_id=403676,https://epg.pw/api/epg.xml?channel_id=429763,https://epg.pw/api/epg.xml?channel_id=7870,https://epg.pw/api/epg.xml?channel_id=11984,https://epg.pw/api/epg.xml?channel_id=403858,https://epg.pw/api/epg.xml?channel_id=80669,https://epg.pw/api/epg.xml?channel_id=403793,https://epg.pw/api/epg.xml?channel_id=443285,https://epg.pw/api/epg.xml?channel_id=431323,https://epg.pw/api/epg.xml?channel_id=10805,https://epg.pw/api/epg.xml?channel_id=429769,https://epg.pw/api/epg.xml?channel_id=443293" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=70612,https://epg.pw/api/epg.xml?channel_id=309490,https://epg.pw/api/epg.xml?channel_id=399722,https://epg.pw/api/epg.xml?channel_id=443657,https://epg.pw/api/epg.xml?channel_id=12640,https://epg.pw/api/epg.xml?channel_id=202819,https://epg.pw/api/epg.xml?channel_id=11986,https://epg.pw/api/epg.xml?channel_id=443276,https://epg.pw/api/epg.xml?channel_id=443286,https://epg.pw/api/epg.xml?channel_id=443275,https://epg.pw/api/epg.xml?channel_id=443284,https://epg.pw/api/epg.xml?channel_id=405079,https://epg.pw/api/epg.xml?channel_id=405134,https://epg.pw/api/epg.xml?channel_id=405060,https://epg.pw/api/epg.xml?channel_id=404833,https://epg.pw/api/epg.xml?channel_id=405049,https://epg.pw/api/epg.xml?channel_id=403813,https://epg.pw/api/epg.xml?channel_id=403916,https://epg.pw/api/epg.xml?channel_id=70615,https://epg.pw/api/epg.xml?channel_id=70607,https://epg.pw/api/epg.xml?channel_id=403676,https://epg.pw/api/epg.xml?channel_id=429763,https://epg.pw/api/epg.xml?channel_id=7870,https://epg.pw/api/epg.xml?channel_id=11984,https://epg.pw/api/epg.xml?channel_id=403858,https://epg.pw/api/epg.xml?channel_id=80669,https://epg.pw/api/epg.xml?channel_id=403793,https://epg.pw/api/epg.xml?channel_id=443285,https://epg.pw/api/epg.xml?channel_id=431323,https://epg.pw/api/epg.xml?channel_id=10805,https://epg.pw/api/epg.xml?channel_id=429769,https://epg.pw/api/epg.xml?channel_id=443293" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1, Congress 1st session (10 am)
-https://www.youtube.com/live/2zEjriJpYPk
-#EXTINF:-1, Senate 1st session (10 am)
-https://www.youtube.com/watch?v=qIPCXauM754
-#EXTINF:-1, SONA (4 pm)
-https://www.youtube.com/watch?v=w4NaLeAGdeA
 #EXTINF:-1,DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="403676" tvg-name="NBA TV USA",NBA TV 1080
@@ -306,7 +300,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="ptv41ph" tvg-name="PTV4 (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL LOCAL",PTV4 (CON)
+#EXTINF:-1 tvg-id="70612" tvg-name="PTV4 (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ðŸ‡µðŸ‡­ CIGNAL LOCAL",PTV4 (CON)
 http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
